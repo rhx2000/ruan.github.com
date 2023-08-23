@@ -3,4 +3,4 @@
 ###### ttt
 * hh
 ** hh
-[click here](rhx2000.github.io/ruan.github.com/)
+[click here](ruan.github.com/)
